@@ -3,6 +3,8 @@
 
 ### Properties of the Heart
 
+![The Heart](img/heart.png)
+
 - Your alignment changes to neutral evil.
 - Your Intelligence increases by 1, to a maximum of 24.
 - You gain resistance to cold damage.
@@ -19,6 +21,8 @@ The Heart greatly amplifies the powers of the other two Vestiges while they are 
 ## The Hand
 
 ### Properties of the Hand
+
+![The Hand](img/hand.png)
 
 - Your alignment changes do neutral evil.
 - Your Intelligence increases by 1, to a maximum of 24.
@@ -44,6 +48,8 @@ If you are attuned to both the Hand and to the Heart, your power over souls exte
 ---
 
 ## The Eye
+
+![The Eye](img/eye.png)
 
 ### Properties of the Eye
 - While attuned to the stone, the following applies:
