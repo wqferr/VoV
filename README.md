@@ -1,2 +1,5 @@
 # VoV-images
-Spoilery images for an RPG campaign! Turn back, nothing of interest here.
+Spoilery things for an RPG campaign! Turn back, nothing of interest here.
+
+[Functionality](functionality.md)  
+[Lore](lore.md)
