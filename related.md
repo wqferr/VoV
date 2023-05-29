@@ -2,7 +2,7 @@
 
 ## The Hand of Kas
 
-The Hand of Kas was the original artifact Vecna altered to make it the Hand of Vecna.
+The Hand of Kas was the original artifact Vecna altered to make the Hand of Vecna.
 Created by Kas, who himself had made it from the Staff of Arkon, the staff syphoned
 life energy from around the user into themself.
 
