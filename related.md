@@ -7,7 +7,7 @@ Created by Kas, who himself had made it from the Staff of Arkon, the staff sypho
 life energy from around the user into themself.
 
 The staff can be wielded as a magic quarterstaff that grants a +2 bonus to attack and damage
-rolls made with it. It also has 30 charges, and regains 1d4+3 charges each dawn. You may
+rolls made with it. It also has 30 charges, and regains 3d8 charges each dawn. You may
 expend a number of charges to use the following effects:
 - Ray of Sickness (2 charges):
   the Hand of Kas produces a sickly green beam, 5 ft. wide and 60 ft. long.
