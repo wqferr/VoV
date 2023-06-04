@@ -29,4 +29,4 @@ expend a number of charges to use the following effects:
   you gain 2d10 temporary hitpoints.
 - Horrid Wilting (4 charges):
   You cast the spell Abi-Dalzim's Horrid Wilting. Your hitpoints maximum and current hitpoints are
-  increased by 1d6 for every target in the area. This effect lasts until you finish a long rest.
+  increased by 2d8 for every target in the area. This effect lasts until you finish a long rest.
