@@ -21,10 +21,10 @@ expend a number of charges to use the following effects:
   Any creature in this area takes 4d8 necrotic damage and must make a
   Constitution saving throw (DC 17) or be poisoned for 1 minute. The user
   restores a number of hitpoints equal to 1d6 for every creature hit.
-- Blight (2 charges):
+- Blight (4 charges):
   you cast the spell Blight. If the target fails their saving throw, you regain
   a number of hitpoints equal to the damage dealt.
-- Circle of Death (3 charges):
+- Circle of Death (6 charges):
   You cast the spell Circle of Death. For every creature that fails their saving throw,
   you gain 2d10 temporary hitpoints.
 - Horrid Wilting (8 charges):
